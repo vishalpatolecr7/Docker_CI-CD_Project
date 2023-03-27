@@ -1,0 +1,6 @@
+[
+    {
+        "name": "CICD",
+        "imageUri": "850752466801.dkr.ecr.ap-south-1.amazonaws.com/vishalcloud:latest"
+    }
+]
